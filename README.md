@@ -4,8 +4,6 @@ nim : C2583207045
 matkul : algoritma 
 kelas : ptiA 
 PEMBAHSAN
-## Kesimpulan
-
 Program Adventure Camp merupakan aplikasi penyewaan peralatan camping berbasis bahasa C yang bertujuan untuk mempermudah proses penyewaan dan perhitungan biaya. Program ini memiliki fitur untuk menampilkan daftar peralatan, melakukan transaksi penyewaan, menghitung subtotal dan diskon secara otomatis, menampilkan struk pembayaran, serta melihat riwayat transaksi dan total pendapatan.
 
 Dalam pembuatannya, program ini menerapkan konsep dasar pemrograman C, seperti variabel, array, struktur data `struct`, fungsi, percabangan, perulangan, dan validasi input. Dengan adanya program ini, proses penyewaan menjadi lebih praktis, terstruktur, dan mengurangi kesalahan perhitungan. Namun, program masih memiliki keterbatasan, yaitu data transaksi belum tersimpan secara permanen dan jumlah transaksi dibatasi maksimal 10 transaksi. Oleh karena itu, program ini masih dapat dikembangkan dengan menambahkan fitur penyimpanan data dan pengelolaan stok peralatan agar lebih efektif.
